@@ -1,0 +1,2 @@
+# IntelliEduHub
+College management system
